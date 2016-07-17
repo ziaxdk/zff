@@ -1,0 +1,23 @@
+{
+  "name": "zff",
+  "version": "0.2.0",
+  "description": "Concatenate files and converts to ApplePro codec",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ziaxdk/zff.git"
+  },
+  "keywords": [
+    "ffmpeg",
+    "prores"
+  ],
+  "author": "ZiaxDK",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ziaxdk/zff/issues"
+  },
+  "homepage": "https://github.com/ziaxdk/zff#readme"
+}
